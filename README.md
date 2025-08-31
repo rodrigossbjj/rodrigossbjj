@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rodrigo Sousa
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor Back End`**
 
 Me chamo Rodrigo Sousa Sales, tenho 19 anos e sou natural do Ceará. Concluí o ensino médio em uma escola de educação profissional, EEEP Professor César Campelo, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no Instituto Federal de Ciência e Tecnólogia do Ceará (IFCE). Sou apaixonado por aprender, compartilhar conhecimento e buscar constantemente novos desafios no universo da programação.
 
