@@ -10,7 +10,7 @@
   <a href="mailto:rodrigosousasales9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/rodrigo-sousa-821875348/">
+  <a href="https://www.linkedin.com/in/rodrigo-sousa-821875348?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -62,7 +62,7 @@ Me chamo **Rodrigo Sousa Sales**, tenho 20 anos e sou natural do Ceará. Sou apa
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigossbjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigossbjj&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigossbjj&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
 <br/>
