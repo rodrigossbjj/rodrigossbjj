@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/rodrigo-sousa-821875348?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://rodrigossbjj.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -36,6 +39,7 @@ Me chamo **Rodrigo Sousa Sales**, tenho 20 anos e sou natural do Ceará. Sou apa
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-00539C?style=for-the-badge&logo=visual-basic&logoColor=white" alt="VB6" />
 </p>
 
 ### Frameworks e Runtimes
